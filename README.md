@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This project provides a statistical analysis of the impacts of game addiction on the physical and mental health of university and school-level students. It uses a survey dataset to investigate the correlation between excessive gaming and various health-related issues. The study aims to highlight the adverse effects of game addiction, such as sleep deprivation, depression, anxiety, social isolation, and degradation of academic performance.
+This project provides a statistical analysis of the impacts of game addiction on the physical and mental health of university students. It uses a survey dataset to investigate the correlation between excessive gaming and various health-related issues. The study aims to highlight the adverse effects of game addiction, such as sleep deprivation, depression, anxiety, social isolation, and degradation of academic performance.
 
 ***
 
