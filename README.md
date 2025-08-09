@@ -55,7 +55,7 @@ To run this project, you will need a Python environment with several key data sc
 ### How to Run the Project
 
 1.  **Clone the Repository:**
-    `git clone https://github.com/YOUR_USERNAME/game-addiction-health-analysis.git`
+    `git clone https://github.com/SamiulIslamRamim/game-addiction-health-analysis.git`
     `cd game-addiction-health-analysis`
 
 2.  **Install Required Libraries:**
